@@ -3,6 +3,8 @@
 I will focus on the Canadian Immigration data and use the already cleaned dataset. I put that data in my bucket at AWS S3. 
 ### Creation of Buckets
 I create buckets in S3 and upload the Canadian Immigration data into it.
+In the screenshot, we can see I have created two buckets. 
+I have uploaded our dataset in insee-data-test1 bucket.
 ![](https://github.com/fahadmhd/Amazon-S3-and-Visualization/blob/main/creation%20of%20buckets.png)
 ### Fetch data from S3
 First part of this project will retrieve that data from S3. 
